@@ -1,5 +1,7 @@
-### DJ Events
+# DJ Events
 > Next.js website for DJ Events. This site uses Strapi as a backend and Cloudinary for image optimization.
+
+
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
